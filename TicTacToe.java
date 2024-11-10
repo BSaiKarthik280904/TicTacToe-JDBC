@@ -314,7 +314,7 @@ class TicTacToe implements ActionListener {
             }
         } catch (SQLException e) {
             e.printStackTrace();
-	}
+        }
     }
 }
 
